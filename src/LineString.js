@@ -7,7 +7,7 @@ export default class {
     };
     const options = {
       coordinates,
-      ...{...defaultStyles, styles}
+      styles: {...defaultStyles, ...styles}
     };
 
     Object.assign(this, options);
