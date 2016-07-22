@@ -6,4 +6,3 @@ TODO:
 * Add example usage
 * Add documentation
 * Add more utils
-* Add build tools and start using ES6
