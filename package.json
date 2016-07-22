@@ -1,6 +1,6 @@
 {
   "name": "react-map-gl-canvas-overlay-utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Utilities for working with React Map GL Canvas Overlay",
   "main": "index.js",
   "scripts": {
