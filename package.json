@@ -1,0 +1,28 @@
+{
+  "name": "react-map-gl-canvas-overlay-utils",
+  "version": "1.0.0",
+  "description": "Utilities for working with React Map GL Canvas Overlay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSamskies/react-map-gl-canvas-overlay-utils.git"
+  },
+  "keywords": [
+    "react",
+    "mapbox",
+    "mapbox-gl",
+    "mapgl",
+    "canvas",
+    "react-map-gl",
+    "react-map-gl-canvas-overlay"
+  ],
+  "author": "Sam Samskies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamSamskies/react-map-gl-canvas-overlay-utils/issues"
+  },
+  "homepage": "https://github.com/SamSamskies/react-map-gl-canvas-overlay-utils#readme"
+}
